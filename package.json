@@ -1,0 +1,29 @@
+{
+  "name": "athai-project",
+  "version": "1.0.0",
+  "description": "athai social network for thais in australia",
+  "main": "server.js",
+  "dependencies": {
+    "express": "~4.5.1",
+    "mongoose": "~3.8.0",
+    "body-parser": "~1.4.2",
+    "method-override": "~2.0.2",
+  },
+  "devDependencies": {
+    "nodemon": "^1.9.0",
+  },
+  "scripts": {
+    "test": "npm test",
+    "start": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mrtewy/athai-project.git"
+  },
+  "author": "mrtewy mrtewy@gmail.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mrtewy/athai-project/issues"
+  },
+  "homepage": "https://github.com/mrtewy/athai-project#readme"
+}

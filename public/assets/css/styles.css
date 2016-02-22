@@ -1,0 +1,15 @@
+@import 'login-form.css';
+
+.page-container {
+	margin:100px auto;
+}
+
+.navbar-nav li {
+	margin-left: 10px;
+}
+
+
+/* ERROR TEMPLATE */
+.error-template {padding: 40px 15px;text-align: center;}
+.error-actions {margin-top:15px;margin-bottom:15px;}
+.error-actions .btn { margin-right:10px; }
